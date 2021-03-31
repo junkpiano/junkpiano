@@ -2,6 +2,8 @@
 
 [![HitCount](http://hits.dwyl.com/junkpiano/junkpiano/junkpiano.svg)](http://hits.dwyl.com/junkpiano/junkpiano/junkpiano)
 
+[![Junkpiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkpiano)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **junkpiano/junkpiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
