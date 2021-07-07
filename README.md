@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/junkpiano/junkpiano/junkpiano.svg)](http://hits.dwyl.com/junkpiano/junkpiano/junkpiano)
-
 [![Junkpiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkpiano)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
