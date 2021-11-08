@@ -1,47 +1,44 @@
-### Hi there 👋
-
-[![Junkpiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkpiano)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**junkpiano/junkpiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+=======================
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Development Tools](#development-tools)
   - [Text Editor](#text-editor)
+    - [Visual Studio Code(Free)](#visual-studio-codefree)
     - [Sublime Text(\$80)](#sublime-text%5C80)
     - [Atom(Free)](#atomfree)
       - [Configuration](#configuration)
     - [Emacs(Free)](#emacsfree)
       - [Configuration](#configuration-1)
+    - [Vim(Free)](#vimfree)
+      - [Configuration](#configuration-2)
     - [Xcode(Free)](#xcodefree)
     - [Android Studio(Free)](#android-studiofree)
-  - [Skills](#skills)
-    - [Swift/Objective-C](#swiftobjective-c)
-    - [JavaScript](#javascript)
-  - [Contact](#contact)
-    - [Blog](#blog)
-  - [Build this doc](#build-this-doc)
+- [Skills](#skills)
+  - [Swift/Objective-C](#swiftobjective-c)
+  - [JavaScript](#javascript)
+- [Contact](#contact)
+  - [Blog](#blog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+[![Junkpiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkpiano)](https://github.com/anuraghazra/github-readme-stats)
 
 # Development Tools
 
 ## Text Editor
+
+### Visual Studio Code(Free)
+
+As of 2021, VSCode is the king in text editor "industry". It's dominant in this market.
+The reason is high advanced customizability as well as being free.
+
+VScode fits any coding environments,and it is a universal app that can run anywhere.
+I've been seeing a lot of people fail to refuse config-free/customizable text editor(VSCode) temptation.
+
+Yes, I am writing this doc in VSCode.
 
 ### Sublime Text(\$80)
 
@@ -69,6 +66,14 @@ Emacs is a free software. Emacs is my old friend.
 
 https://github.com/junkpiano/emacs.d
 
+### Vim(Free)
+
+Vim is a free software. I've been trying to get along with Vim, but I cannot call Vim the best friend yet.
+
+#### Configuration
+
+https://github.com/junkpiano/vim
+
 ### Xcode(Free)
 
 Xcode is the only one IDE for MacOS/iOS application development.
@@ -77,24 +82,18 @@ Xcode is the only one IDE for MacOS/iOS application development.
 
 When I do something for Android or Flutter, I am using Android Studio.
 
-## Skills
+# Skills
 
-### Swift/Objective-C
+## Swift/Objective-C
 
 - [Scientist](https://github.com/junkpiano/scientist)
 
-### JavaScript
+## JavaScript
 
 - [bobobot](https://github.com/junkpiano/bobobot)
 
-## Contact
+# Contact
 
-### Blog
+## Blog
 
 - https://yusuke.cloud/
-
-## Build this doc
-
-```
-npx doctoc .
-```
