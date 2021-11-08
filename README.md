@@ -95,3 +95,8 @@ When I do something for Android or Flutter, I am using Android Studio.
 ## Blog
 
 - https://yusuke.cloud/
+
+## SNS
+
+- [Twitter](https://twitter.com/junkpiano)
+- [Mastodon](https://mastodon.technology/@junkpiano)
