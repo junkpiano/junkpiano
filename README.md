@@ -49,10 +49,8 @@ Sublime text supports multi platforms, windows, mac, linux.
 
 ### Atom(Free)
 
-Sometimes I feel like getting user experience from text editor. So Atom is my second choice.
-Atom is desktop application, leveraged by web technology, as well as VSCode.
-
-I used to VSCode in daily work, but I still don't like their UI so much. And I love atom's flexibility, which enables me to customize function by text based configuration.
+Sometimes I feel like getting IDE-like UX from text editor. In that way, Atom is my second choice.
+Atom is desktop application on top of [Electron](https://www.electronjs.org/).
 
 #### Configuration
 
