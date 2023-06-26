@@ -7,20 +7,17 @@ Hi there 👋
 - [Development Tools](#development-tools)
   - [Text Editor](#text-editor)
     - [Visual Studio Code(Free)](#visual-studio-codefree)
-    - [Sublime Text(\$80)](#sublime-text%5C80)
-    - [Atom(Free)](#atomfree)
+    - [Neo Vim](#neo-vim)
       - [Configuration](#configuration)
-    - [Emacs(Free)](#emacsfree)
-      - [Configuration](#configuration-1)
-    - [Vim(Free)](#vimfree)
-      - [Configuration](#configuration-2)
     - [Xcode(Free)](#xcodefree)
     - [Android Studio(Free)](#android-studiofree)
 - [Skills](#skills)
   - [Swift/Objective-C](#swiftobjective-c)
+  - [Go](#go)
   - [JavaScript](#javascript)
 - [Contact](#contact)
   - [Blog](#blog)
+  - [SNS](#sns)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -40,37 +37,13 @@ I've been seeing a lot of people fail to refuse config-free/customizable text ed
 
 Yes, I am writing this doc in VSCode.
 
-### Sublime Text(\$80)
-
-This is a lightweight but versatile text editor.
-Sublime text is basically code editor but you can use this for writing plain text.
-
-Sublime text supports multi platforms, windows, mac, linux.
-
-### Atom(Free)
-
-Sometimes I feel like getting IDE-like UX from text editor. In that way, Atom is my second choice.
-Atom is desktop application on top of [Electron](https://www.electronjs.org/).
-
-#### Configuration
-
-https://github.com/junkpiano/atom
-
-### Emacs(Free)
-
-Emacs is a free software. Emacs is my old friend.
-
-#### Configuration
-
-https://github.com/junkpiano/emacs.d
-
-### Vim(Free)
+### Neo Vim
 
 Vim is a free software. I've been trying to get along with Vim, but I cannot call Vim the best friend yet.
 
 #### Configuration
 
-https://github.com/junkpiano/vim
+https://github.com/junkpiano/nvim
 
 ### Xcode(Free)
 
@@ -86,13 +59,15 @@ When I do something for Android or Flutter, I am using Android Studio.
 
 - [Scientist](https://github.com/junkpiano/scientist)
 
-## JavaScript
-
-- [bobobot](https://github.com/junkpiano/bobobot)
-
 ## Go
 
 - [SonarQube Exporter](https://github.com/junkpiano/sonarqube-exporter)
+- [Gojira](https://github.com/junkpiano/gojira)
+- [Github Issue Driven Blog](https://yusuke.cloud/github-issue-driven-blog/)
+
+## JavaScript
+
+- [bobobot](https://github.com/junkpiano/bobobot)
 
 # Contact
 
@@ -102,5 +77,5 @@ When I do something for Android or Flutter, I am using Android Studio.
 
 ## SNS
 
-- [Twitter](https://twitter.com/junkpiano)
-- [Mastodon](https://mastodon.technology/@junkpiano)
+- [Mastodon](https://hachyderm.io/@junkpiano)
+- [Nostr](https://iris.to/junkpiano@yusuke.cloud)
