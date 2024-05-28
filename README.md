@@ -78,4 +78,4 @@ When I do something for Android or Flutter, I am using Android Studio.
 ## SNS
 
 - [Mastodon](https://hachyderm.io/@junkpiano)
-- [Nostr](https://iris.to/junkpiano@yusuke.cloud)
+- [Nostr](https://nosta.me/e59d5c59ec77e6967a6b0ef17854b640a3e82ca1681264831101632b2ea664aa)
