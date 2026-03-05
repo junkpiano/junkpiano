@@ -25,46 +25,49 @@ Thinking in Rust
 
 ```
      Sep     Oct     Nov       Dec     Jan     Feb     Ma
-Sun  · ◼ · ◼ · · · · · · · · · · · · · ◼ · · ◼ · · ◼ · ·
-Mon  · · · ◼ · · · · · · · · · ▪ · · · · ▪ · ▪ · · █ · ◼
-Tue  · · · · · · · · · · · · ◼ · · · · · · · █ ▪ ▪ █ ▪ ▪
-Wed  · · · · · · · · · · · · · ▪ · · ◼ · · · █ · ◼ ◼ ▪ ▪
-Thu  · · · ▪ · · · · · · · · · · · · ▪ · ▪ ▪ ▪ · █ ▪ ▪ █
-Fri  · · · · · · · · · · · ◼ · ▪ · · ▪ · ◼ · · ▪ ◼ ▪ ·
-Sat  ▪ · ◼ · · · · · · · · ▪ · · · · ▪ · · · · ▪ █ ◼ ·
+Sun  · ◼ · ◼ · · · · · · · · · · · · · ◼ · · ◼ · · ◼ · · 
+Mon  · · · ◼ · · · · · · · · · ▪ · · · · ▪ · ▪ · · █ · ◼ 
+Tue  · · · · · · · · · · · · ◼ · · · · · · · █ ▪ ▪ █ ▪ ▪ 
+Wed  · · · · · · · · · · · · · ▪ · · ◼ · · · █ · ◼ ◼ ▪ ▪ 
+Thu  · · · ▪ · · · · · · · · · · · · ▪ · ▪ ▪ ▪ · █ ▪ ▪ █ 
+Fri  · · · · · · · · · · · ◼ · ▪ · · ▪ · ◼ · · ▪ ◼ ▪ ·   
+Sat  ▪ · ◼ · · · · · · · · ▪ · · · · ▪ · · · · ▪ █ ◼ ·   
           · 0 pushes  ▪ 1-3  ◼ 4-9  █ 10+
 ```
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/gh-readme-gen`: ** (just now)
-- 🐛 opened issue in `junkpiano/til`: *Eliminating Raspberry Pi Fan Noise with Temperature-Based Control* (13d ago)
-- 🔀 merged PR in `junkpiano/nostr_spa`: ** (18d ago)
+- 🔀 merged PR in `junkpiano/gh-readme-gen`: [ feat: add contribution calendar support and commit grass in README o…](https://github.com/junkpiano/gh-readme-gen/pull/1) (12m ago)
+- 🔀 opened PR in `junkpiano/gh-readme-gen`: [ feat: add contribution calendar support and commit grass in README o…](https://github.com/junkpiano/gh-readme-gen/pull/1) (12m ago)
+- 🐛 opened issue in `junkpiano/til`: [Eliminating Raspberry Pi Fan Noise with Temperature-Based Control](https://github.com/junkpiano/til/issues/48) (13d ago)
+- 🔀 merged PR in `junkpiano/nostr_spa`: [Patch/browse back ux](https://github.com/junkpiano/nostr_spa/pull/5) (18d ago)
+- 🔀 opened PR in `junkpiano/nostr_spa`: [Patch/browse back ux](https://github.com/junkpiano/nostr_spa/pull/5) (18d ago)
+- 🐛 closed issue in `junkpiano/til`: ['Ubuntu 24.04: "No Wi-Fi Adapter Found" on Intel Core Ultra (ILL) – fixed by forcing OEM kernel via GRUB'](https://github.com/junkpiano/til/issues/47) (22d ago)
 
 ## Top Projects
 
 ### [scientist](https://github.com/junkpiano/scientist) `Swift`
-A Swift library for carefully refactoring critical paths.
+A Swift library for carefully refactoring critical paths.  
 ⭐ 12 · 🍴 3
 
 ### [figma-api-go](https://github.com/junkpiano/figma-api-go) `Go`
-Figma(https://www.figma.com) API Client in Go
+Figma(https://www.figma.com) API Client in Go  
 ⭐ 7 · 🍴 2
 
 ### [gojira](https://github.com/junkpiano/gojira) `Go`
-Jira Client in Go
+Jira Client in Go  
 ⭐ 3 · 🍴 1
 
 ### [bobobot](https://github.com/junkpiano/bobobot) `JavaScript`
-Bobobot for Telegram
+Bobobot for Telegram  
 ⭐ 2 · 🍴 0
 
 ### [nostr-rust-news](https://github.com/junkpiano/nostr-rust-news) `Rust`
-Rust news nostr bot
+Rust news nostr bot  
 ⭐ 1 · 🍴 0
 
 ### [ClawPlane](https://github.com/junkpiano/ClawPlane) `Rust`
-No description
+No description  
 ⭐ 1 · 🍴 0
 
 ## Languages
@@ -72,11 +75,11 @@ No description
 ```
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
 Rust        ███░░░░░░░░░░░░░░░░░░░░░   14%
-Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
