@@ -37,8 +37,8 @@ Sat  ▪ · ◼ · · · · · · · · ▪ · · · · ▪ · · · · ▪ █ 
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/gh-readme-gen`: [ feat: add contribution calendar support and commit grass in README o…](https://github.com/junkpiano/gh-readme-gen/pull/1) (Mar 05)
-- 🔀 opened PR in `junkpiano/gh-readme-gen`: [ feat: add contribution calendar support and commit grass in README o…](https://github.com/junkpiano/gh-readme-gen/pull/1) (Mar 05)
+- 🔀 merged PR in `junkpiano/gh-readme-gen`: [feat: enrich recent activity feed with full PR titles, links, and bet…](https://github.com/junkpiano/gh-readme-gen/pull/2) (Mar 05)
+- 🔀 opened PR in `junkpiano/gh-readme-gen`: [feat: enrich recent activity feed with full PR titles, links, and bet…](https://github.com/junkpiano/gh-readme-gen/pull/2) (Mar 05)
 - 🐛 opened issue in `junkpiano/til`: [Eliminating Raspberry Pi Fan Noise with Temperature-Based Control](https://github.com/junkpiano/til/issues/48) (Feb 19)
 - 🔀 merged PR in `junkpiano/nostr_spa`: [Patch/browse back ux](https://github.com/junkpiano/nostr_spa/pull/5) (Feb 14)
 - 🔀 opened PR in `junkpiano/nostr_spa`: [Patch/browse back ux](https://github.com/junkpiano/nostr_spa/pull/5) (Feb 14)
@@ -75,14 +75,14 @@ No description
 ```
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
 Rust        ███░░░░░░░░░░░░░░░░░░░░░   14%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
