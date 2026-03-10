@@ -19,15 +19,15 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak |
 |-------------------|-------------------|
-| **2 days** Mar 08 ~ Mar 09 | **12 days** Feb 10 ~ Feb 21 |
+| **3 days** Mar 08 ~ Mar 10 | **12 days** Feb 10 ~ Feb 21 |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ```
      Sep   Oct     Nov       Dec     Jan     Feb     Mar 
 Sun  ◼ · ◼ · · · · · · · · · · · · · ◼ · · ◼ · · ◼ · · ▪ 
-Mon  · · ◼ · · · · · · · · · ▪ · · · · ▪ · ▪ · · █ · ◼ ◼ 
-Tue  · · · · · · · · · · · ◼ · · · · · · · █ ▪ ▪ █ ▪ ▪   
+Mon  · · ◼ · · · · · · · · · ▪ · · · · ▪ · ▪ · · █ · ◼ █ 
+Tue  · · · · · · · · · · · ◼ · · · · · · · █ ▪ ▪ █ ▪ ▪ ◼ 
 Wed  · · · · · · · · · · · · ▪ · · ◼ · · · █ · ◼ ◼ ▪ ▪   
 Thu  · · ▪ · · · · · · · · · · · · ▪ · ▪ ▪ ▪ · █ ▪ ▪ █   
 Fri  · · · · · · · · · · ◼ · ▪ · · ▪ · ◼ · · ▪ ◼ ▪ · ◼   
@@ -37,8 +37,10 @@ Sat  · ◼ · · · · · · · · ▪ · · · · ▪ · · · · ▪ █ ◼ 
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nostr_spa`: [feat(profile): add in-app profile metadata editing](https://github.com/junkpiano/nostr_spa/pull/7) (2026 Mar 09)
-- 🔀 opened PR in `junkpiano/nostr_spa`: [feat(profile): add in-app profile metadata editing](https://github.com/junkpiano/nostr_spa/pull/7) (2026 Mar 09)
+- 🔀 merged PR in `junkpiano/emacs.d-v2`: [Improve Emacs org workflow and switch Rust setup to eglot](https://github.com/junkpiano/emacs.d-v2/pull/1) (2026 Mar 10)
+- 🔀 opened PR in `junkpiano/emacs.d-v2`: [Improve Emacs org workflow and switch Rust setup to eglot](https://github.com/junkpiano/emacs.d-v2/pull/1) (2026 Mar 10)
+- 🔀 merged PR in `junkpiano/nostr_spa`: [Use main cache as source of truth and reuse relay sockets](https://github.com/junkpiano/nostr_spa/pull/9) (2026 Mar 09)
+- 🔀 opened PR in `junkpiano/nostr_spa`: [Use main cache as source of truth and reuse relay sockets](https://github.com/junkpiano/nostr_spa/pull/9) (2026 Mar 09)
 - 🔀 merged PR in `junkpiano/gh-readme-gen`: [feat(cli): add --push option to publish generated README to profile repo](https://github.com/junkpiano/gh-readme-gen/pull/3) (2026 Mar 05)
 - 🔀 opened PR in `junkpiano/gh-readme-gen`: [feat(cli): add --push option to publish generated README to profile repo](https://github.com/junkpiano/gh-readme-gen/pull/3) (2026 Mar 05)
 - 🐛 opened issue in `junkpiano/til`: [Eliminating Raspberry Pi Fan Noise with Temperature-Based Control](https://github.com/junkpiano/til/issues/48) (2026 Feb 19)
@@ -75,14 +77,14 @@ Rust news nostr bot
 ```
 Rust        ███░░░░░░░░░░░░░░░░░░░░░   15%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
+Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
