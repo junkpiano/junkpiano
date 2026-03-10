@@ -9,31 +9,13 @@ Thinking in Rust
 - 🌐 [https://yusuke.cloud](https://yusuke.cloud)
 - 🐙 [github.com/junkpiano](https://github.com/junkpiano)
 
-## Stats
-
-| Repos | Followers | Following |
-|-------|-----------|----------|
-| 86 | 11 | 6 |
-
 ## Commit Streak
 
-| 🔥 Current Streak | 🏆 Longest Streak |
-|-------------------|-------------------|
-| **3 days** Mar 08 ~ Mar 10 | **12 days** Feb 10 ~ Feb 21 |
+| 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
+|-------------------|-------------------|-----------------|
+| **3 days** Mar 08 ~ Mar 10 | **12 days** Feb 10 ~ Feb 21 | **86** |
 
 > *Based on GitHub contribution calendar — last 180 days*
-
-```
-     Sep   Oct     Nov       Dec     Jan     Feb     Mar 
-Sun  ◼ · ◼ · · · · · · · · · · · · · ◼ · · ◼ · · ◼ · · ▪ 
-Mon  · · ◼ · · · · · · · · · ▪ · · · · ▪ · ▪ · · █ · ◼ █ 
-Tue  · · · · · · · · · · · ◼ · · · · · · · █ ▪ ▪ █ ▪ ▪ ◼ 
-Wed  · · · · · · · · · · · · ▪ · · ◼ · · · █ · ◼ ◼ ▪ ▪   
-Thu  · · ▪ · · · · · · · · · · · · ▪ · ▪ ▪ ▪ · █ ▪ ▪ █   
-Fri  · · · · · · · · · · ◼ · ▪ · · ▪ · ◼ · · ▪ ◼ ▪ · ◼   
-Sat  · ◼ · · · · · · · · ▪ · · · · ▪ · · · · ▪ █ ◼ · ·   
-          · 0 pushes  ▪ 1-3  ◼ 4-9  █ 10+
-```
 
 ## Recent Activity
 
@@ -75,16 +57,16 @@ Rust news nostr bot
 ## Languages
 
 ```
-Rust        ███░░░░░░░░░░░░░░░░░░░░░   15%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
+Rust        ███░░░░░░░░░░░░░░░░░░░░░   15%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
