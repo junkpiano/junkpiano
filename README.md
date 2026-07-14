@@ -9,24 +9,38 @@ Thinking in Rust
 - 🌐 [https://yusuke.cloud](https://yusuke.cloud)
 - 🐙 [github.com/junkpiano](https://github.com/junkpiano)
 
+## Stats
+
+| Repos | Followers | Following |
+|-------|-----------|----------|
+| 87 | 12 | 5 |
+
 ## Commit Streak
 
-| 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
-|-------------------|-------------------|-----------------|
-| **3 days** Mar 08 ~ Mar 10 | **12 days** Feb 10 ~ Feb 21 | **86** |
+| 🔥 Current Streak | 🏆 Longest Streak |
+|-------------------|-------------------|
+| **0 days**  | **12 days** Feb 10 ~ Feb 21 |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
+```
+     Jan Feb     Mar       Apr     May       Jun     Jul 
+Sun  · ◼ · · ◼ · · ▪ · ▪ · · · · · · · · · · · · · · · · 
+Mon  · ▪ · · █ · ◼ █ ◼ · ▪ · · · · · · · · · · · · · ◼ · 
+Tue  · █ ▪ ▪ █ ▪ ▪ █ · · ▪ · · · · · · · · · · · · · · · 
+Wed  · █ · ◼ ◼ ▪ ▪ · · · · · · · · · · · · ▪ · · · · ·   
+Thu  ▪ ▪ · █ ▪ ▪ █ · · · · · · · · · · · · · · · ▪ · ·   
+Fri  · · ▪ ◼ ▪ · ◼ ◼ · · · · · · · · · · · · · · · · ·   
+Sat  · · ▪ █ ◼ · · · · · · · · · · · · · · · · · · · ·   
+          · 0 pushes  ▪ 1-3  ◼ 4-9  █ 10+
+```
+
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/emacs.d-v2`: [Improve Emacs org workflow and switch Rust setup to eglot](https://github.com/junkpiano/emacs.d-v2/pull/1) (2026 Mar 10)
-- 🔀 opened PR in `junkpiano/emacs.d-v2`: [Improve Emacs org workflow and switch Rust setup to eglot](https://github.com/junkpiano/emacs.d-v2/pull/1) (2026 Mar 10)
-- 🔀 merged PR in `junkpiano/nostr_spa`: [Use main cache as source of truth and reuse relay sockets](https://github.com/junkpiano/nostr_spa/pull/9) (2026 Mar 09)
-- 🔀 opened PR in `junkpiano/nostr_spa`: [Use main cache as source of truth and reuse relay sockets](https://github.com/junkpiano/nostr_spa/pull/9) (2026 Mar 09)
-- 🔀 merged PR in `junkpiano/gh-readme-gen`: [feat(cli): add --push option to publish generated README to profile repo](https://github.com/junkpiano/gh-readme-gen/pull/3) (2026 Mar 05)
-- 🔀 opened PR in `junkpiano/gh-readme-gen`: [feat(cli): add --push option to publish generated README to profile repo](https://github.com/junkpiano/gh-readme-gen/pull/3) (2026 Mar 05)
-- 🐛 opened issue in `junkpiano/til`: [Eliminating Raspberry Pi Fan Noise with Temperature-Based Control](https://github.com/junkpiano/til/issues/48) (2026 Feb 19)
-- 🐛 closed issue in `junkpiano/til`: ['Ubuntu 24.04: "No Wi-Fi Adapter Found" on Intel Core Ultra (ILL) – fixed by forcing OEM kernel via GRUB'](https://github.com/junkpiano/til/issues/47) (2026 Feb 10)
+- 🔀 merged PR in `junkpiano/yusuke.cloud`: [Add Chinese and German site languages](https://github.com/junkpiano/yusuke.cloud/pull/132) (2026 Jul 06)
+- 🔀 opened PR in `junkpiano/yusuke.cloud`: [Add Chinese and German site languages](https://github.com/junkpiano/yusuke.cloud/pull/132) (2026 Jul 06)
+- 🔀 merged PR in `junkpiano/nox`: [fix: patch critical XSS, follow-list wipe, and sync bugs](https://github.com/junkpiano/nox/pull/15) (2026 Jul 06)
+- 🔀 opened PR in `junkpiano/nox`: [fix: patch critical XSS, follow-list wipe, and sync bugs](https://github.com/junkpiano/nox/pull/15) (2026 Jul 06)
 
 ## Top Projects
 
@@ -57,13 +71,13 @@ Rust news nostr bot
 ## Languages
 
 ```
+Rust        ████░░░░░░░░░░░░░░░░░░░░   17%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-Rust        ███░░░░░░░░░░░░░░░░░░░░░   15%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
