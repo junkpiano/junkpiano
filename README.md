@@ -9,44 +9,32 @@ Thinking in Rust
 - 🌐 [https://yusuke.cloud](https://yusuke.cloud)
 - 🐙 [github.com/junkpiano](https://github.com/junkpiano)
 
-## Stats
-
-| Repos | Followers | Following |
-|-------|-----------|----------|
-| 87 | 12 | 5 |
-
 ## Commit Streak
 
-| 🔥 Current Streak | 🏆 Longest Streak |
-|-------------------|-------------------|
-| **0 days**  | **12 days** Feb 10 ~ Feb 21 |
+| 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
+|-------------------|-------------------|-----------------|
+| **1 days** Aug 05 | **12 days** Feb 10 ~ Feb 21 | **88** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
-```
-     Jan Feb     Mar       Apr     May       Jun     Jul 
-Sun  · ◼ · · ◼ · · ▪ · ▪ · · · · · · · · · · · · · · · · 
-Mon  · ▪ · · █ · ◼ █ ◼ · ▪ · · · · · · · · · · · · · ◼ · 
-Tue  · █ ▪ ▪ █ ▪ ▪ █ · · ▪ · · · · · · · · · · · · · · · 
-Wed  · █ · ◼ ◼ ▪ ▪ · · · · · · · · · · · · ▪ · · · · ·   
-Thu  ▪ ▪ · █ ▪ ▪ █ · · · · · · · · · · · · · · · ▪ · ·   
-Fri  · · ▪ ◼ ▪ · ◼ ◼ · · · · · · · · · · · · · · · · ·   
-Sat  · · ▪ █ ◼ · · · · · · · · · · · · · · · · · · · ·   
-          · 0 pushes  ▪ 1-3  ◼ 4-9  █ 10+
-```
-
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/yusuke.cloud`: [Add Chinese and German site languages](https://github.com/junkpiano/yusuke.cloud/pull/132) (2026 Jul 06)
-- 🔀 opened PR in `junkpiano/yusuke.cloud`: [Add Chinese and German site languages](https://github.com/junkpiano/yusuke.cloud/pull/132) (2026 Jul 06)
-- 🔀 merged PR in `junkpiano/nox`: [fix: patch critical XSS, follow-list wipe, and sync bugs](https://github.com/junkpiano/nox/pull/15) (2026 Jul 06)
-- 🔀 opened PR in `junkpiano/nox`: [fix: patch critical XSS, follow-list wipe, and sync bugs](https://github.com/junkpiano/nox/pull/15) (2026 Jul 06)
+- 🔀 closed PR in `junkpiano/yusuke.cloud`: [Added a draft](https://github.com/junkpiano/yusuke.cloud/pull/26) (2026 Feb 17)
+- 🚀 Released `v1.1.0` in `junkpiano/til-cli` (2026 Aug 02)
+- 🔀 merged PR in `junkpiano/til-cli`: [feat: make the action usable by any repository](https://github.com/junkpiano/til-cli/pull/6) (2026 Aug 02)
+- 🔀 opened PR in `junkpiano/til-cli`: [feat: make the action usable by any repository](https://github.com/junkpiano/til-cli/pull/6) (2026 Aug 02)
+- 🐛 closed issue in `junkpiano/til`: [Eliminating Raspberry Pi Fan Noise with Temperature-Based Control](https://github.com/junkpiano/til/issues/48) (2026 Aug 02)
+- 🔀 merged PR in `junkpiano/til`: [ci: serialize sync runs and authenticate the API](https://github.com/junkpiano/til/pull/51) (2026 Aug 02)
+- 🔀 opened PR in `junkpiano/til`: [ci: serialize sync runs and authenticate the API](https://github.com/junkpiano/til/pull/51) (2026 Aug 02)
+- 🐛 opened issue in `junkpiano/til`: [git commit -S fails under Claude Code on WSL: route pinentry to Gpg4win](https://github.com/junkpiano/til/issues/50) (2026 Aug 02)
+- 🔀 merged PR in `junkpiano/agent-worklog`: [Add JSON output to sources command](https://github.com/junkpiano/agent-worklog/pull/2) (2026 Jul 28)
+- 🔀 opened PR in `junkpiano/agent-worklog`: [Add JSON output to sources command](https://github.com/junkpiano/agent-worklog/pull/2) (2026 Jul 28)
 
 ## Top Projects
 
 ### [scientist](https://github.com/junkpiano/scientist) `Swift`
 A Swift library for carefully refactoring critical paths.  
-⭐ 12 · 🍴 3
+⭐ 13 · 🍴 3
 
 ### [figma-api-go](https://github.com/junkpiano/figma-api-go) `Go`
 Figma(https://www.figma.com) API Client in Go  
@@ -71,16 +59,16 @@ Rust news nostr bot
 ## Languages
 
 ```
-Rust        ████░░░░░░░░░░░░░░░░░░░░   17%
+Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
