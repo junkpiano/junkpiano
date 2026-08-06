@@ -19,6 +19,9 @@ Thinking in Rust
 
 ## Recent Activity
 
+- 🚀 Released `0.5.0` in `junkpiano/scientist` (2026 Aug 05)
+- 🔀 merged PR in `junkpiano/scientist`: [Bump to Swift 6, replace Travis CI with GitHub Actions](https://github.com/junkpiano/scientist/pull/14) (2026 Aug 05)
+- 🔀 opened PR in `junkpiano/scientist`: [Bump to Swift 6, replace Travis CI with GitHub Actions](https://github.com/junkpiano/scientist/pull/14) (2026 Aug 05)
 - 🔀 closed PR in `junkpiano/yusuke.cloud`: [Added a draft](https://github.com/junkpiano/yusuke.cloud/pull/26) (2026 Feb 17)
 - 🚀 Released `v1.1.0` in `junkpiano/til-cli` (2026 Aug 02)
 - 🔀 merged PR in `junkpiano/til-cli`: [feat: make the action usable by any repository](https://github.com/junkpiano/til-cli/pull/6) (2026 Aug 02)
@@ -26,9 +29,6 @@ Thinking in Rust
 - 🐛 closed issue in `junkpiano/til`: [Eliminating Raspberry Pi Fan Noise with Temperature-Based Control](https://github.com/junkpiano/til/issues/48) (2026 Aug 02)
 - 🔀 merged PR in `junkpiano/til`: [ci: serialize sync runs and authenticate the API](https://github.com/junkpiano/til/pull/51) (2026 Aug 02)
 - 🔀 opened PR in `junkpiano/til`: [ci: serialize sync runs and authenticate the API](https://github.com/junkpiano/til/pull/51) (2026 Aug 02)
-- 🐛 opened issue in `junkpiano/til`: [git commit -S fails under Claude Code on WSL: route pinentry to Gpg4win](https://github.com/junkpiano/til/issues/50) (2026 Aug 02)
-- 🔀 merged PR in `junkpiano/agent-worklog`: [Add JSON output to sources command](https://github.com/junkpiano/agent-worklog/pull/2) (2026 Jul 28)
-- 🔀 opened PR in `junkpiano/agent-worklog`: [Add JSON output to sources command](https://github.com/junkpiano/agent-worklog/pull/2) (2026 Jul 28)
 
 ## Top Projects
 
@@ -61,14 +61,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
