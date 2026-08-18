@@ -6,29 +6,29 @@ Thinking in Rust
 
 ## About Me
 
-- 🌐 [https://yusuke.cloud](https://yusuke.cloud)
+- 🌐 [https://nox.garden/junkpiano@yusuke.cloud](https://nox.garden/junkpiano@yusuke.cloud)
 - 🐙 [github.com/junkpiano](https://github.com/junkpiano)
 
 ## Commit Streak
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **12 days** Aug 05 ~ Aug 16 | **12 days** Aug 05 ~ Aug 16 | **87** |
+| **14 days** Aug 05 ~ Aug 18 | **14 days** Aug 05 ~ Aug 18 | **87** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 merged PR in `junkpiano/nox`: [fix: decode percent-encoded NIP-05 route segments](https://github.com/junkpiano/nox/pull/17) (2026 Aug 17)
+- 🔀 opened PR in `junkpiano/nox`: [fix: decode percent-encoded NIP-05 route segments](https://github.com/junkpiano/nox/pull/17) (2026 Aug 17)
+- 🔀 merged PR in `junkpiano/gh-readme-gen`: [feat: publish gh-readme-gen as a GitHub Action](https://github.com/junkpiano/gh-readme-gen/pull/4) (2026 Aug 17)
+- 🔀 opened PR in `junkpiano/gh-readme-gen`: [feat: publish gh-readme-gen as a GitHub Action](https://github.com/junkpiano/gh-readme-gen/pull/4) (2026 Aug 17)
 - 🚀 Released `0.5.0` in `junkpiano/scientist` (2026 Aug 05)
 - 🔀 merged PR in `junkpiano/scientist`: [Bump to Swift 6, replace Travis CI with GitHub Actions](https://github.com/junkpiano/scientist/pull/14) (2026 Aug 05)
 - 🔀 opened PR in `junkpiano/scientist`: [Bump to Swift 6, replace Travis CI with GitHub Actions](https://github.com/junkpiano/scientist/pull/14) (2026 Aug 05)
 - 🔀 closed PR in `junkpiano/yusuke.cloud`: [Added a draft](https://github.com/junkpiano/yusuke.cloud/pull/26) (2026 Feb 17)
 - 🚀 Released `v1.1.0` in `junkpiano/til-cli` (2026 Aug 02)
 - 🔀 merged PR in `junkpiano/til-cli`: [feat: make the action usable by any repository](https://github.com/junkpiano/til-cli/pull/6) (2026 Aug 02)
-- 🔀 opened PR in `junkpiano/til-cli`: [feat: make the action usable by any repository](https://github.com/junkpiano/til-cli/pull/6) (2026 Aug 02)
-- 🐛 closed issue in `junkpiano/til`: [Eliminating Raspberry Pi Fan Noise with Temperature-Based Control](https://github.com/junkpiano/til/issues/48) (2026 Aug 02)
-- 🔀 merged PR in `junkpiano/til`: [ci: serialize sync runs and authenticate the API](https://github.com/junkpiano/til/pull/51) (2026 Aug 02)
-- 🔀 opened PR in `junkpiano/til`: [ci: serialize sync runs and authenticate the API](https://github.com/junkpiano/til/pull/51) (2026 Aug 02)
 
 ## Top Projects
 
@@ -61,14 +61,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
