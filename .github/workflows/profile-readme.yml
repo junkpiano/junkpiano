@@ -1,0 +1,22 @@
+name: Update profile README
+
+on:
+  schedule:
+    # Daily at 03:00 UTC (12:00 JST)
+    - cron: '0 3 * * *'
+  workflow_dispatch: {}
+
+# The action pushes README.md to this repo with GITHUB_TOKEN, so the commits are
+# authored by github-actions[bot] and do not count as contributions.
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: junkpiano/gh-readme-gen@v0.1.0
