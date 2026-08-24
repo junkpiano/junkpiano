@@ -13,19 +13,19 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **1 days** Aug 22 | **14 days** Aug 05 ~ Aug 18 | **88** |
+| **2 days** Aug 22 ~ Aug 23 | **14 days** Aug 05 ~ Aug 18 | **88** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 merged PR in `junkpiano/nox`: [Ship nox as a native app via Tauri v2](https://github.com/junkpiano/nox/pull/18) (2026 Aug 23)
+- 🔀 opened PR in `junkpiano/nox`: [Ship nox as a native app via Tauri v2](https://github.com/junkpiano/nox/pull/18) (2026 Aug 23)
 - 🍴 Forked `dani-garcia/vaultwarden` (2026 Aug 22)
 - 🔀 merged PR in `junkpiano/gh-readme-gen`: [ci: drop the daily profile README schedule](https://github.com/junkpiano/gh-readme-gen/pull/5) (2026 Aug 18)
 - 🔀 opened PR in `junkpiano/gh-readme-gen`: [ci: drop the daily profile README schedule](https://github.com/junkpiano/gh-readme-gen/pull/5) (2026 Aug 18)
 - 🔀 merged PR in `junkpiano/junkpiano`: [ci: generate profile README with gh-readme-gen v0.1.0](https://github.com/junkpiano/junkpiano/pull/1) (2026 Aug 18)
 - 🔀 opened PR in `junkpiano/junkpiano`: [ci: generate profile README with gh-readme-gen v0.1.0](https://github.com/junkpiano/junkpiano/pull/1) (2026 Aug 18)
-- 🔀 merged PR in `junkpiano/nox`: [fix: decode percent-encoded NIP-05 route segments](https://github.com/junkpiano/nox/pull/17) (2026 Aug 17)
-- 🔀 opened PR in `junkpiano/nox`: [fix: decode percent-encoded NIP-05 route segments](https://github.com/junkpiano/nox/pull/17) (2026 Aug 17)
 - 🚀 Released `0.5.0` in `junkpiano/scientist` (2026 Aug 05)
 - 🔀 merged PR in `junkpiano/scientist`: [Bump to Swift 6, replace Travis CI with GitHub Actions](https://github.com/junkpiano/scientist/pull/14) (2026 Aug 05)
 - 🔀 opened PR in `junkpiano/scientist`: [Bump to Swift 6, replace Travis CI with GitHub Actions](https://github.com/junkpiano/scientist/pull/14) (2026 Aug 05)
@@ -61,14 +61,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
