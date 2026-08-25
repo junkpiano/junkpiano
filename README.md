@@ -13,14 +13,14 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **2 days** Aug 22 ~ Aug 23 | **14 days** Aug 05 ~ Aug 18 | **88** |
+| **1 days** Aug 25 | **14 days** Aug 05 ~ Aug 18 | **88** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 opened PR in `junkpiano/nox`: [Add private messages over NIP-17](https://github.com/junkpiano/nox/pull/24) (2026 Aug 25)
 - 🔀 merged PR in `junkpiano/nox`: [Ship nox as a native app via Tauri v2](https://github.com/junkpiano/nox/pull/18) (2026 Aug 23)
-- 🔀 opened PR in `junkpiano/nox`: [Ship nox as a native app via Tauri v2](https://github.com/junkpiano/nox/pull/18) (2026 Aug 23)
 - 🍴 Forked `dani-garcia/vaultwarden` (2026 Aug 22)
 - 🔀 merged PR in `junkpiano/gh-readme-gen`: [ci: drop the daily profile README schedule](https://github.com/junkpiano/gh-readme-gen/pull/5) (2026 Aug 18)
 - 🔀 opened PR in `junkpiano/gh-readme-gen`: [ci: drop the daily profile README schedule](https://github.com/junkpiano/gh-readme-gen/pull/5) (2026 Aug 18)
@@ -61,14 +61,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
