@@ -13,18 +13,18 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **1 days** Aug 29 | **14 days** Aug 05 ~ Aug 18 | **88** |
+| **2 days** Aug 29 ~ Aug 30 | **14 days** Aug 05 ~ Aug 18 | **88** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 opened PR in `junkpiano/nox`: [Show which client a post came from](https://github.com/junkpiano/nox/pull/52) (2026 Aug 29)
-- 🔀 merged PR in `junkpiano/nox`: [Say posts came from nox](https://github.com/junkpiano/nox/pull/51) (2026 Aug 29)
+- 🔀 opened PR in `junkpiano/nox`: [Hide the wallet where the App Store does not allow one](https://github.com/junkpiano/nox/pull/61) (2026 Aug 30)
+- 🔀 merged PR in `junkpiano/nox`: [Catch the guide up with what shipped](https://github.com/junkpiano/nox/pull/59) (2026 Aug 29)
+- 🔀 merged PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
+- 🔀 opened PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 merged PR in `junkpiano/yusuke.cloud`: [Match the Netlify Hugo pin to CI](https://github.com/junkpiano/yusuke.cloud/pull/134) (2026 Aug 29)
 - 🔀 opened PR in `junkpiano/yusuke.cloud`: [Point Mastodon links at hachyderm.io](https://github.com/junkpiano/yusuke.cloud/pull/135) (2026 Aug 29)
-- 🔀 merged PR in `junkpiano/nostr-proxy`: [fix: send a User-Agent from the Worker, cache results, relax limits](https://github.com/junkpiano/nostr-proxy/pull/3) (2026 Aug 27)
-- 🔀 opened PR in `junkpiano/nostr-proxy`: [fix: send a User-Agent from the Worker, cache results, relax limits](https://github.com/junkpiano/nostr-proxy/pull/3) (2026 Aug 27)
 - 🔀 closed PR in `junkpiano/nox`: [Add a wallet tab with Nostr Wallet Connect](https://github.com/junkpiano/nox/pull/23) (2026 Aug 25)
 - 🍴 Forked `dani-garcia/vaultwarden` (2026 Aug 22)
 - 🔀 merged PR in `junkpiano/gh-readme-gen`: [ci: drop the daily profile README schedule](https://github.com/junkpiano/gh-readme-gen/pull/5) (2026 Aug 18)
@@ -61,14 +61,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
