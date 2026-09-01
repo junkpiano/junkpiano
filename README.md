@@ -19,8 +19,8 @@ Thinking in Rust
 
 ## Recent Activity
 
-- 🔀 opened PR in `junkpiano/nox`: [fix: restore the timeline to a card, not to a pixel](https://github.com/junkpiano/nox/pull/66) (2026 Aug 30)
-- 🔀 merged PR in `junkpiano/nox`: [fix: only offer the status editor on your own profile](https://github.com/junkpiano/nox/pull/65) (2026 Aug 30)
+- 🔀 merged PR in `junkpiano/nox`: [fix: restore the timeline to a card, not to a pixel](https://github.com/junkpiano/nox/pull/66) (2026 Aug 31)
+- 🔀 opened PR in `junkpiano/nox`: [Find people in search, not only posts](https://github.com/junkpiano/nox/pull/67) (2026 Aug 31)
 - 🔀 merged PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 opened PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 merged PR in `junkpiano/yusuke.cloud`: [Match the Netlify Hugo pin to CI](https://github.com/junkpiano/yusuke.cloud/pull/134) (2026 Aug 29)
@@ -61,10 +61,10 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
