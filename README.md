@@ -13,14 +13,14 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **3 days** Aug 29 ~ Aug 31 | **14 days** Aug 05 ~ Aug 18 | **88** |
+| **5 days** Aug 29 ~ Sep 02 | **14 days** Aug 05 ~ Aug 18 | **88** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nox`: [fix: restore the timeline to a card, not to a pixel](https://github.com/junkpiano/nox/pull/66) (2026 Aug 31)
-- 🔀 opened PR in `junkpiano/nox`: [Find people in search, not only posts](https://github.com/junkpiano/nox/pull/67) (2026 Aug 31)
+- 🔀 merged PR in `junkpiano/nox`: [fix: a dead relay no longer decides how long the follow list takes](https://github.com/junkpiano/nox/pull/70) (2026 Sep 02)
+- 🔀 opened PR in `junkpiano/nox`: [fix: a dead relay no longer decides how long the follow list takes](https://github.com/junkpiano/nox/pull/70) (2026 Sep 02)
 - 🔀 merged PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 opened PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 merged PR in `junkpiano/yusuke.cloud`: [Match the Netlify Hugo pin to CI](https://github.com/junkpiano/yusuke.cloud/pull/134) (2026 Aug 29)
@@ -61,14 +61,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
