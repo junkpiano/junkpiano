@@ -19,16 +19,15 @@ Thinking in Rust
 
 ## Recent Activity
 
+- 🔀 merged PR in `junkpiano/nox`: [feat: browse as a public key (read-only session)](https://github.com/junkpiano/nox/pull/76) (2026 Sep 03)
+- 🔀 opened PR in `junkpiano/nox`: [design: the event page is the post](https://github.com/junkpiano/nox/pull/77) (2026 Sep 03)
 - 🐛 opened issue in `junkpiano/nox`: [Route OGP preview images through the image proxy](https://github.com/junkpiano/nox/issues/73) (2026 Sep 03)
 - 🐛 opened issue in `junkpiano/nostr-proxy`: [Add a secure image proxy endpoint for OGP preview images](https://github.com/junkpiano/nostr-proxy/issues/5) (2026 Sep 03)
-- 🔀 merged PR in `junkpiano/nox`: [fix: a deletion is believed only when signed, and a clearance only for a while](https://github.com/junkpiano/nox/pull/72) (2026 Sep 02)
-- 🔀 opened PR in `junkpiano/nox`: [fix: a deletion is believed only when signed, and a clearance only for a while](https://github.com/junkpiano/nox/pull/72) (2026 Sep 02)
 - 🔀 merged PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 opened PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 merged PR in `junkpiano/yusuke.cloud`: [Match the Netlify Hugo pin to CI](https://github.com/junkpiano/yusuke.cloud/pull/134) (2026 Aug 29)
 - 🔀 opened PR in `junkpiano/yusuke.cloud`: [Point Mastodon links at hachyderm.io](https://github.com/junkpiano/yusuke.cloud/pull/135) (2026 Aug 29)
 - 🔀 closed PR in `junkpiano/nox`: [Add a wallet tab with Nostr Wallet Connect](https://github.com/junkpiano/nox/pull/23) (2026 Aug 25)
-- 🍴 Forked `dani-garcia/vaultwarden` (2026 Aug 22)
 
 ## Top Projects
 
@@ -63,8 +62,8 @@ Rust        ████░░░░░░░░░░░░░░░░░░�
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
