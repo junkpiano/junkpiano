@@ -13,21 +13,20 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **8 days** Aug 29 ~ Sep 05 | **14 days** Aug 05 ~ Aug 18 | **88** |
+| **9 days** Aug 29 ~ Sep 06 | **14 days** Aug 05 ~ Aug 18 | **88** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 opened PR in `junkpiano/nox`: [design: the profile page is the person](https://github.com/junkpiano/nox/pull/79) (2026 Sep 05)
-- 🔀 merged PR in `junkpiano/nox`: [design: the event page is the post](https://github.com/junkpiano/nox/pull/77) (2026 Sep 05)
+- 🔀 merged PR in `junkpiano/nox`: [docs: the Android filter that ships is the generated project's](https://github.com/junkpiano/nox/pull/86) (2026 Sep 06)
+- 🔀 opened PR in `junkpiano/nox`: [docs: the Android filter that ships is the generated project's](https://github.com/junkpiano/nox/pull/86) (2026 Sep 06)
 - 🐛 opened issue in `junkpiano/nox`: [Route OGP preview images through the image proxy](https://github.com/junkpiano/nox/issues/73) (2026 Sep 03)
 - 🐛 opened issue in `junkpiano/nostr-proxy`: [Add a secure image proxy endpoint for OGP preview images](https://github.com/junkpiano/nostr-proxy/issues/5) (2026 Sep 03)
 - 🔀 merged PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 opened PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
 - 🔀 merged PR in `junkpiano/yusuke.cloud`: [Match the Netlify Hugo pin to CI](https://github.com/junkpiano/yusuke.cloud/pull/134) (2026 Aug 29)
 - 🔀 opened PR in `junkpiano/yusuke.cloud`: [Point Mastodon links at hachyderm.io](https://github.com/junkpiano/yusuke.cloud/pull/135) (2026 Aug 29)
-- 🔀 closed PR in `junkpiano/nox`: [Add a wallet tab with Nostr Wallet Connect](https://github.com/junkpiano/nox/pull/23) (2026 Aug 25)
 
 ## Top Projects
 
@@ -60,14 +59,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
