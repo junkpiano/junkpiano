@@ -13,20 +13,21 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **9 days** Aug 29 ~ Sep 06 | **14 days** Aug 05 ~ Aug 18 | **88** |
+| **10 days** Aug 29 ~ Sep 07 | **14 days** Aug 05 ~ Aug 18 | **88** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nox`: [docs: the Android filter that ships is the generated project's](https://github.com/junkpiano/nox/pull/86) (2026 Sep 06)
-- 🔀 opened PR in `junkpiano/nox`: [docs: the Android filter that ships is the generated project's](https://github.com/junkpiano/nox/pull/86) (2026 Sep 06)
-- 🐛 opened issue in `junkpiano/nox`: [Route OGP preview images through the image proxy](https://github.com/junkpiano/nox/issues/73) (2026 Sep 03)
+- 🐛 closed issue in `junkpiano/ycc`: [T17 — Unary `&` and `*`](https://github.com/junkpiano/ycc/issues/18) (2026 Sep 07)
+- 🔀 merged PR in `junkpiano/ycc`: [Add unary & and *](https://github.com/junkpiano/ycc/pull/45) (2026 Sep 07)
+- 🔀 opened PR in `junkpiano/nox`: [native: a profile opens without waiting out three graces in turn](https://github.com/junkpiano/nox/pull/94) (2026 Sep 07)
+- 🔀 opened PR in `junkpiano/ycc`: [Add unary & and *](https://github.com/junkpiano/ycc/pull/45) (2026 Sep 07)
+- 🔀 merged PR in `junkpiano/nox`: [native: a name shows the pictures its author put in it](https://github.com/junkpiano/nox/pull/92) (2026 Sep 07)
+- 🐛 closed issue in `junkpiano/nox`: [native: custom emoji (NIP-30) are not drawn, especially in names](https://github.com/junkpiano/nox/issues/91) (2026 Sep 07)
+- 🐛 opened issue in `junkpiano/nox`: [native: custom emoji (NIP-30) are not drawn, especially in names](https://github.com/junkpiano/nox/issues/91) (2026 Sep 07)
+- 🐛 opened issue in `junkpiano/ycc`: [T28 — Driver: link with yld](https://github.com/junkpiano/ycc/issues/36) (2026 Sep 07)
 - 🐛 opened issue in `junkpiano/nostr-proxy`: [Add a secure image proxy endpoint for OGP preview images](https://github.com/junkpiano/nostr-proxy/issues/5) (2026 Sep 03)
-- 🔀 merged PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
-- 🔀 opened PR in `junkpiano/nostr-proxy`: [Allow the nox Netlify deploy previews](https://github.com/junkpiano/nostr-proxy/pull/4) (2026 Aug 29)
-- 🔀 merged PR in `junkpiano/yusuke.cloud`: [Match the Netlify Hugo pin to CI](https://github.com/junkpiano/yusuke.cloud/pull/134) (2026 Aug 29)
-- 🔀 opened PR in `junkpiano/yusuke.cloud`: [Point Mastodon links at hachyderm.io](https://github.com/junkpiano/yusuke.cloud/pull/135) (2026 Aug 29)
 
 ## Top Projects
 
@@ -59,14 +60,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
