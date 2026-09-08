@@ -13,21 +13,22 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **10 days** Aug 29 ~ Sep 07 | **14 days** Aug 05 ~ Aug 18 | **88** |
+| **11 days** Aug 29 ~ Sep 08 | **14 days** Aug 05 ~ Aug 18 | **88** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🐛 closed issue in `junkpiano/ycc`: [T17 — Unary `&` and `*`](https://github.com/junkpiano/ycc/issues/18) (2026 Sep 07)
-- 🔀 merged PR in `junkpiano/ycc`: [Add unary & and *](https://github.com/junkpiano/ycc/pull/45) (2026 Sep 07)
-- 🔀 opened PR in `junkpiano/nox`: [native: a profile opens without waiting out three graces in turn](https://github.com/junkpiano/nox/pull/94) (2026 Sep 07)
-- 🔀 opened PR in `junkpiano/ycc`: [Add unary & and *](https://github.com/junkpiano/ycc/pull/45) (2026 Sep 07)
-- 🔀 merged PR in `junkpiano/nox`: [native: a name shows the pictures its author put in it](https://github.com/junkpiano/nox/pull/92) (2026 Sep 07)
+- 🔀 opened PR in `junkpiano/scientist`: [Replace jazzy with DocC and deploy docs from CI](https://github.com/junkpiano/scientist/pull/17) (2026 Sep 08)
+- 🐛 closed issue in `junkpiano/scientist`: [Configurations for Github Action](https://github.com/junkpiano/scientist/issues/11) (2026 Sep 08)
+- 🔀 merged PR in `junkpiano/scientist`: [Fix inverted Result.matched()](https://github.com/junkpiano/scientist/pull/15) (2026 Sep 08)
+- 🐛 closed issue in `junkpiano/ycc`: [T20 — Arrays and `[]` indexing](https://github.com/junkpiano/ycc/issues/21) (2026 Sep 08)
+- 🔀 merged PR in `junkpiano/ycc`: [Add arrays and subscripting](https://github.com/junkpiano/ycc/pull/48) (2026 Sep 08)
+- 🔀 opened PR in `junkpiano/ycc`: [Add arrays and subscripting](https://github.com/junkpiano/ycc/pull/48) (2026 Sep 07)
+- 🔀 merged PR in `junkpiano/nox`: [fix: an event cannot claim to have been verified already](https://github.com/junkpiano/nox/pull/96) (2026 Sep 07)
+- 🔀 opened PR in `junkpiano/nox`: [fix: an event cannot claim to have been verified already](https://github.com/junkpiano/nox/pull/96) (2026 Sep 07)
 - 🐛 closed issue in `junkpiano/nox`: [native: custom emoji (NIP-30) are not drawn, especially in names](https://github.com/junkpiano/nox/issues/91) (2026 Sep 07)
 - 🐛 opened issue in `junkpiano/nox`: [native: custom emoji (NIP-30) are not drawn, especially in names](https://github.com/junkpiano/nox/issues/91) (2026 Sep 07)
-- 🐛 opened issue in `junkpiano/ycc`: [T28 — Driver: link with yld](https://github.com/junkpiano/ycc/issues/36) (2026 Sep 07)
-- 🐛 opened issue in `junkpiano/nostr-proxy`: [Add a secure image proxy endpoint for OGP preview images](https://github.com/junkpiano/nostr-proxy/issues/5) (2026 Sep 03)
 
 ## Top Projects
 
@@ -61,13 +62,13 @@ Rust news nostr bot
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
