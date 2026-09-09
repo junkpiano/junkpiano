@@ -19,16 +19,16 @@ Thinking in Rust
 
 ## Recent Activity
 
-- 🔀 opened PR in `junkpiano/scientist`: [Replace jazzy with DocC and deploy docs from CI](https://github.com/junkpiano/scientist/pull/17) (2026 Sep 08)
-- 🐛 closed issue in `junkpiano/scientist`: [Configurations for Github Action](https://github.com/junkpiano/scientist/issues/11) (2026 Sep 08)
-- 🔀 merged PR in `junkpiano/scientist`: [Fix inverted Result.matched()](https://github.com/junkpiano/scientist/pull/15) (2026 Sep 08)
+- 🔀 opened PR in `junkpiano/scientist`: [Let an experiment fail on mismatches instead of only publishing them](https://github.com/junkpiano/scientist/pull/29) (2026 Sep 08)
+- 🔀 merged PR in `junkpiano/scientist`: [Add the error-coverage tests missed by #27](https://github.com/junkpiano/scientist/pull/28) (2026 Sep 08)
+- 🐛 closed issue in `junkpiano/scientist`: [Capture failures from behaviors instead of letting them take the process down](https://github.com/junkpiano/scientist/issues/25) (2026 Sep 08)
+- 🐛 opened issue in `junkpiano/scientist`: [Parity with github/scientist: what this port is still missing](https://github.com/junkpiano/scientist/issues/26) (2026 Sep 08)
+- 🚀 Released `0.6.0` in `junkpiano/scientist` (2026 Sep 08)
 - 🐛 closed issue in `junkpiano/ycc`: [T20 — Arrays and `[]` indexing](https://github.com/junkpiano/ycc/issues/21) (2026 Sep 08)
 - 🔀 merged PR in `junkpiano/ycc`: [Add arrays and subscripting](https://github.com/junkpiano/ycc/pull/48) (2026 Sep 08)
 - 🔀 opened PR in `junkpiano/ycc`: [Add arrays and subscripting](https://github.com/junkpiano/ycc/pull/48) (2026 Sep 07)
 - 🔀 merged PR in `junkpiano/nox`: [fix: an event cannot claim to have been verified already](https://github.com/junkpiano/nox/pull/96) (2026 Sep 07)
 - 🔀 opened PR in `junkpiano/nox`: [fix: an event cannot claim to have been verified already](https://github.com/junkpiano/nox/pull/96) (2026 Sep 07)
-- 🐛 closed issue in `junkpiano/nox`: [native: custom emoji (NIP-30) are not drawn, especially in names](https://github.com/junkpiano/nox/issues/91) (2026 Sep 07)
-- 🐛 opened issue in `junkpiano/nox`: [native: custom emoji (NIP-30) are not drawn, especially in names](https://github.com/junkpiano/nox/issues/91) (2026 Sep 07)
 
 ## Top Projects
 
@@ -62,8 +62,8 @@ Rust news nostr bot
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
