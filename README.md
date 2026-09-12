@@ -13,22 +13,22 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **0 days**  | **14 days** Aug 05 ~ Aug 18 | **88** |
+| **2 days** Sep 11 ~ Sep 12 | **14 days** Aug 05 ~ Aug 18 | **89** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 opened PR in `junkpiano/nox`: [native: touch in the timeline and the picture viewer](https://github.com/junkpiano/nox/pull/98) (2026 Sep 12)
+- 🔀 merged PR in `junkpiano/nox`: [native: the whole row opens the post](https://github.com/junkpiano/nox/pull/97) (2026 Sep 11)
+- 🐛 closed issue in `junkpiano/ycc`: [T21b — Global variables](https://github.com/junkpiano/ycc/issues/50) (2026 Sep 11)
+- 🔀 merged PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
+- 🔀 opened PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
+- 🐛 opened issue in `junkpiano/ylua`: [L11 — Standard library](https://github.com/junkpiano/ylua/issues/11) (2026 Sep 11)
+- 🐛 closed issue in `junkpiano/nox`: [web: a line the thread page writes itself sits against the left edge on a phone](https://github.com/junkpiano/nox/issues/90) (2026 Sep 11)
+- 🐛 opened issue in `junkpiano/ycc`: [T21d — String literals](https://github.com/junkpiano/ycc/issues/52) (2026 Sep 11)
 - 🔀 opened PR in `junkpiano/scientist`: [Let an experiment fail on mismatches instead of only publishing them](https://github.com/junkpiano/scientist/pull/29) (2026 Sep 08)
 - 🔀 merged PR in `junkpiano/scientist`: [Add the error-coverage tests missed by #27](https://github.com/junkpiano/scientist/pull/28) (2026 Sep 08)
-- 🐛 closed issue in `junkpiano/scientist`: [Capture failures from behaviors instead of letting them take the process down](https://github.com/junkpiano/scientist/issues/25) (2026 Sep 08)
-- 🐛 opened issue in `junkpiano/scientist`: [Parity with github/scientist: what this port is still missing](https://github.com/junkpiano/scientist/issues/26) (2026 Sep 08)
-- 🚀 Released `0.6.0` in `junkpiano/scientist` (2026 Sep 08)
-- 🐛 closed issue in `junkpiano/ycc`: [T20 — Arrays and `[]` indexing](https://github.com/junkpiano/ycc/issues/21) (2026 Sep 08)
-- 🔀 merged PR in `junkpiano/ycc`: [Add arrays and subscripting](https://github.com/junkpiano/ycc/pull/48) (2026 Sep 08)
-- 🔀 opened PR in `junkpiano/ycc`: [Add arrays and subscripting](https://github.com/junkpiano/ycc/pull/48) (2026 Sep 07)
-- 🔀 merged PR in `junkpiano/nox`: [fix: an event cannot claim to have been verified already](https://github.com/junkpiano/nox/pull/96) (2026 Sep 07)
-- 🔀 opened PR in `junkpiano/nox`: [fix: an event cannot claim to have been verified already](https://github.com/junkpiano/nox/pull/96) (2026 Sep 07)
 
 ## Top Projects
 
@@ -63,12 +63,12 @@ Rust        ████░░░░░░░░░░░░░░░░░░�
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Python      █░░░░░░░░░░░░░░░░░░░░░░░    6%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    4%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
