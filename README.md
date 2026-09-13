@@ -19,8 +19,8 @@ Thinking in Rust
 
 ## Recent Activity
 
-- 🔀 opened PR in `junkpiano/nox`: [native: touch in the timeline and the picture viewer](https://github.com/junkpiano/nox/pull/98) (2026 Sep 12)
-- 🔀 merged PR in `junkpiano/nox`: [native: the whole row opens the post](https://github.com/junkpiano/nox/pull/97) (2026 Sep 11)
+- 🔀 merged PR in `junkpiano/nox`: [native: the repost mark says repost, not a second name](https://github.com/junkpiano/nox/pull/99) (2026 Sep 12)
+- 🔀 opened PR in `junkpiano/nox`: [native: the repost mark says repost, not a second name](https://github.com/junkpiano/nox/pull/99) (2026 Sep 12)
 - 🐛 closed issue in `junkpiano/ycc`: [T21b — Global variables](https://github.com/junkpiano/ycc/issues/50) (2026 Sep 11)
 - 🔀 merged PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
 - 🔀 opened PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
@@ -61,9 +61,9 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    5%
