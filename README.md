@@ -19,8 +19,8 @@ Thinking in Rust
 
 ## Recent Activity
 
+- 🔀 merged PR in `junkpiano/nox`: [native: a public key on a profile is copied by tapping it](https://github.com/junkpiano/nox/pull/103) (2026 Sep 15)
 - 🔀 opened PR in `junkpiano/nox`: [native: a public key on a profile is copied by tapping it](https://github.com/junkpiano/nox/pull/103) (2026 Sep 14)
-- 🔀 merged PR in `junkpiano/nox`: [fix: a private message is read only through a seal its sender signed](https://github.com/junkpiano/nox/pull/101) (2026 Sep 14)
 - 🐛 closed issue in `junkpiano/ycc`: [T21b — Global variables](https://github.com/junkpiano/ycc/issues/50) (2026 Sep 11)
 - 🔀 merged PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
 - 🔀 opened PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
@@ -62,13 +62,13 @@ Rust news nostr bot
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
 ```
 
