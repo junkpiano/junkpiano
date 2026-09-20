@@ -13,12 +13,15 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **0 days**  | **14 days** Aug 05 ~ Aug 18 | **89** |
+| **1 days** Sep 20 | **14 days** Aug 05 ~ Aug 18 | **89** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🚀 Released `1.0.0` in `junkpiano/scientist` (2026 Sep 20)
+- 🔀 merged PR in `junkpiano/scientist`: [Point the installation example at 1.0.0](https://github.com/junkpiano/scientist/pull/31) (2026 Sep 20)
+- 🔀 opened PR in `junkpiano/scientist`: [Point the installation example at 1.0.0](https://github.com/junkpiano/scientist/pull/31) (2026 Sep 20)
 - 🔀 merged PR in `junkpiano/nox`: [native: a public key on a profile is copied by tapping it](https://github.com/junkpiano/nox/pull/103) (2026 Sep 15)
 - 🔀 opened PR in `junkpiano/nox`: [native: a public key on a profile is copied by tapping it](https://github.com/junkpiano/nox/pull/103) (2026 Sep 14)
 - 🐛 closed issue in `junkpiano/ycc`: [T21b — Global variables](https://github.com/junkpiano/ycc/issues/50) (2026 Sep 11)
@@ -26,9 +29,6 @@ Thinking in Rust
 - 🔀 opened PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
 - 🐛 opened issue in `junkpiano/ylua`: [L11 — Standard library](https://github.com/junkpiano/ylua/issues/11) (2026 Sep 11)
 - 🐛 closed issue in `junkpiano/nox`: [web: a line the thread page writes itself sits against the left edge on a phone](https://github.com/junkpiano/nox/issues/90) (2026 Sep 11)
-- 🐛 opened issue in `junkpiano/ycc`: [T21d — String literals](https://github.com/junkpiano/ycc/issues/52) (2026 Sep 11)
-- 🔀 opened PR in `junkpiano/scientist`: [Let an experiment fail on mismatches instead of only publishing them](https://github.com/junkpiano/scientist/pull/29) (2026 Sep 08)
-- 🔀 merged PR in `junkpiano/scientist`: [Add the error-coverage tests missed by #27](https://github.com/junkpiano/scientist/pull/28) (2026 Sep 08)
 
 ## Top Projects
 
@@ -62,11 +62,11 @@ Rust news nostr bot
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    5%
+Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      █████░░░░░░░░░░░░░░░░░░░   21%
