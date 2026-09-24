@@ -13,14 +13,14 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **1 days** Sep 23 | **14 days** Aug 05 ~ Aug 18 | **89** |
+| **2 days** Sep 23 ~ Sep 24 | **14 days** Aug 05 ~ Aug 18 | **89** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 opened PR in `junkpiano/nox`: [fix: the menu button and the Posts/Replies switch keep a gutter on small screens](https://github.com/junkpiano/nox/pull/106) (2026 Sep 24)
 - 🔀 merged PR in `junkpiano/nox`: [An image on the clipboard is attached by pasting it](https://github.com/junkpiano/nox/pull/105) (2026 Sep 22)
-- 🔀 opened PR in `junkpiano/nox`: [An image on the clipboard is attached by pasting it](https://github.com/junkpiano/nox/pull/105) (2026 Sep 22)
 - 🚀 Released `1.0.0` in `junkpiano/scientist` (2026 Sep 20)
 - 🔀 merged PR in `junkpiano/scientist`: [Point the installation example at 1.0.0](https://github.com/junkpiano/scientist/pull/31) (2026 Sep 20)
 - 🔀 opened PR in `junkpiano/scientist`: [Point the installation example at 1.0.0](https://github.com/junkpiano/scientist/pull/31) (2026 Sep 20)
@@ -61,14 +61,14 @@ Rust news nostr bot
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
