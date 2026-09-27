@@ -13,22 +13,22 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **3 days** Sep 23 ~ Sep 25 | **14 days** Aug 05 ~ Aug 18 | **89** |
+| **5 days** Sep 23 ~ Sep 27 | **14 days** Aug 05 ~ Aug 18 | **89** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 closed PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
+- 🔀 opened PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
+- 🔀 merged PR in `junkpiano/dotfiles`: [feat: add a cleanup subcommand that removes this repo's symlinks from…](https://github.com/junkpiano/dotfiles/pull/65) (2026 Sep 26)
+- 🔀 opened PR in `junkpiano/dotfiles`: [feat: add a cleanup subcommand that removes this repo's symlinks from…](https://github.com/junkpiano/dotfiles/pull/65) (2026 Sep 26)
 - 🔀 merged PR in `junkpiano/nox`: [feat: an naddr in a post opens on njump.me instead of staying text](https://github.com/junkpiano/nox/pull/107) (2026 Sep 25)
 - 🔀 opened PR in `junkpiano/nox`: [feat: an naddr in a post opens on njump.me instead of staying text](https://github.com/junkpiano/nox/pull/107) (2026 Sep 25)
 - 🚀 Released `1.0.0` in `junkpiano/scientist` (2026 Sep 20)
 - 🔀 merged PR in `junkpiano/scientist`: [Point the installation example at 1.0.0](https://github.com/junkpiano/scientist/pull/31) (2026 Sep 20)
 - 🔀 opened PR in `junkpiano/scientist`: [Point the installation example at 1.0.0](https://github.com/junkpiano/scientist/pull/31) (2026 Sep 20)
 - 🐛 closed issue in `junkpiano/ycc`: [T21b — Global variables](https://github.com/junkpiano/ycc/issues/50) (2026 Sep 11)
-- 🔀 merged PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
-- 🔀 opened PR in `junkpiano/ycc`: [Add global variables](https://github.com/junkpiano/ycc/pull/54) (2026 Sep 11)
-- 🐛 opened issue in `junkpiano/ylua`: [L11 — Standard library](https://github.com/junkpiano/ylua/issues/11) (2026 Sep 11)
-- 🐛 closed issue in `junkpiano/nox`: [web: a line the thread page writes itself sits against the left edge on a phone](https://github.com/junkpiano/nox/issues/90) (2026 Sep 11)
 
 ## Top Projects
 
@@ -48,12 +48,12 @@ Jira Client in Go
 Bobobot for Telegram  
 ⭐ 2 · 🍴 0
 
-### [gh-readme-gen](https://github.com/junkpiano/gh-readme-gen) `Rust`
-No description  
+### [dotfiles-v2](https://github.com/junkpiano/dotfiles-v2) `Shell`
+bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild  
 ⭐ 1 · 🍴 0
 
-### [nostr-rust-news](https://github.com/junkpiano/nostr-rust-news) `Rust`
-Rust news nostr bot  
+### [gh-readme-gen](https://github.com/junkpiano/gh-readme-gen) `Rust`
+No description  
 ⭐ 1 · 🍴 0
 
 ## Languages
@@ -63,12 +63,12 @@ Rust        ████░░░░░░░░░░░░░░░░░░�
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Python      █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
