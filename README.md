@@ -13,19 +13,19 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **1 days** Oct 02 | **14 days** Aug 05 ~ Aug 18 | **90** |
+| **2 days** Oct 02 ~ Oct 03 | **14 days** Aug 05 ~ Aug 18 | **91** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 opened PR in `junkpiano/nox`: [fix: a private message signed by an extension is signed on the extension](https://github.com/junkpiano/nox/pull/119) (2026 Oct 03)
+- 🔀 merged PR in `junkpiano/nox`: [docs: where secrets live on the web is said plainly](https://github.com/junkpiano/nox/pull/114) (2026 Oct 03)
 - 🍴 Forked `go-shiori/shiori` (2026 Oct 02)
 - 🔀 closed PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
 - 🔀 opened PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
 - 🔀 merged PR in `junkpiano/dotfiles`: [feat: add a cleanup subcommand that removes this repo's symlinks from…](https://github.com/junkpiano/dotfiles/pull/65) (2026 Sep 26)
 - 🔀 opened PR in `junkpiano/dotfiles`: [feat: add a cleanup subcommand that removes this repo's symlinks from…](https://github.com/junkpiano/dotfiles/pull/65) (2026 Sep 26)
-- 🔀 merged PR in `junkpiano/nox`: [feat: an naddr in a post opens on njump.me instead of staying text](https://github.com/junkpiano/nox/pull/107) (2026 Sep 25)
-- 🔀 opened PR in `junkpiano/nox`: [feat: an naddr in a post opens on njump.me instead of staying text](https://github.com/junkpiano/nox/pull/107) (2026 Sep 25)
 - 🚀 Released `1.0.0` in `junkpiano/scientist` (2026 Sep 20)
 - 🔀 merged PR in `junkpiano/scientist`: [Point the installation example at 1.0.0](https://github.com/junkpiano/scientist/pull/31) (2026 Sep 20)
 - 🔀 opened PR in `junkpiano/scientist`: [Point the installation example at 1.0.0](https://github.com/junkpiano/scientist/pull/31) (2026 Sep 20)
@@ -61,11 +61,11 @@ No description
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   15%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
