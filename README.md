@@ -13,15 +13,15 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **4 days** Oct 01 ~ Oct 04 | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **1 days** Oct 06 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 merged PR in `junkpiano/nox`: [feat: a conversation keeps its composer at the bottom and shows who is talking](https://github.com/junkpiano/nox/pull/111) (2026 Oct 06)
 - 🔀 opened PR in `swiftlang/swift-corelibs-foundation`: [[Windows] Close the handle of a thread started by Thread](https://github.com/swiftlang/swift-corelibs-foundation/pull/5595) (2026 Oct 03)
 - 🔀 opened PR in `junkpiano/nox`: [fix: a private message signed by an extension is signed on the extension](https://github.com/junkpiano/nox/pull/119) (2026 Oct 03)
-- 🔀 merged PR in `junkpiano/nox`: [docs: where secrets live on the web is said plainly](https://github.com/junkpiano/nox/pull/114) (2026 Oct 03)
 - 🍴 Forked `go-shiori/shiori` (2026 Oct 02)
 - 🔀 closed PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
 - 🔀 opened PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
@@ -61,14 +61,14 @@ No description
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
