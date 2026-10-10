@@ -19,6 +19,8 @@ Thinking in Rust
 
 ## Recent Activity
 
+- 🔀 merged PR in `junkpiano/nostr-rust-news`: [Tag notes with #rust and #rustlang, and publish a relay list](https://github.com/junkpiano/nostr-rust-news/pull/1) (2026 Oct 09)
+- 🔀 opened PR in `junkpiano/nostr-rust-news`: [Tag notes with #rust and #rustlang, and publish a relay list](https://github.com/junkpiano/nostr-rust-news/pull/1) (2026 Oct 09)
 - 🔀 merged PR in `junkpiano/nox`: [fix: a custom emoji whose picture will not load is shown by name](https://github.com/junkpiano/nox/pull/122) (2026 Oct 07)
 - 🔀 opened PR in `junkpiano/nox`: [fix: a custom emoji whose picture will not load is shown by name](https://github.com/junkpiano/nox/pull/122) (2026 Oct 07)
 - 🔀 closed PR in `junkpiano/nox`: [fix: an event is shown from the cache only once its signature has been checked](https://github.com/junkpiano/nox/pull/115) (2026 Oct 03)
@@ -27,8 +29,6 @@ Thinking in Rust
 - 🔀 closed PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
 - 🔀 opened PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
 - 🔀 merged PR in `junkpiano/dotfiles`: [feat: add a cleanup subcommand that removes this repo's symlinks from…](https://github.com/junkpiano/dotfiles/pull/65) (2026 Sep 26)
-- 🔀 opened PR in `junkpiano/dotfiles`: [feat: add a cleanup subcommand that removes this repo's symlinks from…](https://github.com/junkpiano/dotfiles/pull/65) (2026 Sep 26)
-- 🚀 Released `1.0.0` in `junkpiano/scientist` (2026 Sep 20)
 
 ## Top Projects
 
@@ -62,10 +62,10 @@ No description
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
