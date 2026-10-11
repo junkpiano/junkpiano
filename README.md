@@ -13,16 +13,16 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **1 days** Oct 09 | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **2 days** Oct 09 ~ Oct 10 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nostr-rust-news`: [Tag notes with #rust and #rustlang, and publish a relay list](https://github.com/junkpiano/nostr-rust-news/pull/1) (2026 Oct 09)
-- 🔀 opened PR in `junkpiano/nostr-rust-news`: [Tag notes with #rust and #rustlang, and publish a relay list](https://github.com/junkpiano/nostr-rust-news/pull/1) (2026 Oct 09)
-- 🔀 merged PR in `junkpiano/nox`: [fix: a custom emoji whose picture will not load is shown by name](https://github.com/junkpiano/nox/pull/122) (2026 Oct 07)
-- 🔀 opened PR in `junkpiano/nox`: [fix: a custom emoji whose picture will not load is shown by name](https://github.com/junkpiano/nox/pull/122) (2026 Oct 07)
+- 🔀 opened PR in `junkpiano/nox`: [feat: react to a post with any emoji, custom ones included](https://github.com/junkpiano/nox/pull/125) (2026 Oct 10)
+- 🔀 merged PR in `junkpiano/nox`: [feat: a hashtag in a post opens a page of posts with that tag](https://github.com/junkpiano/nox/pull/123) (2026 Oct 10)
+- 🔀 merged PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
+- 🔀 opened PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
 - 🔀 closed PR in `junkpiano/nox`: [fix: an event is shown from the cache only once its signature has been checked](https://github.com/junkpiano/nox/pull/115) (2026 Oct 03)
 - 🔀 opened PR in `swiftlang/swift-corelibs-foundation`: [[Windows] Close the handle of a thread started by Thread](https://github.com/swiftlang/swift-corelibs-foundation/pull/5595) (2026 Oct 03)
 - 🍴 Forked `go-shiori/shiori` (2026 Oct 02)
@@ -48,12 +48,12 @@ Jira Client in Go
 Bobobot for Telegram  
 ⭐ 2 · 🍴 0
 
-### [dotfiles-v2](https://github.com/junkpiano/dotfiles-v2) `Shell`
-bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild  
+### [kubar](https://github.com/junkpiano/kubar) `Swift`
+Your Kubernetes cluster in the macOS menu bar  
 ⭐ 1 · 🍴 0
 
-### [gh-readme-gen](https://github.com/junkpiano/gh-readme-gen) `Rust`
-No description  
+### [dotfiles-v2](https://github.com/junkpiano/dotfiles-v2) `Shell`
+bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild  
 ⭐ 1 · 🍴 0
 
 ## Languages
