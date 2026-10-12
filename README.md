@@ -13,14 +13,14 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **2 days** Oct 09 ~ Oct 10 | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **1 days** Oct 12 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 opened PR in `junkpiano/nox`: [feat: react to a post with any emoji, custom ones included](https://github.com/junkpiano/nox/pull/125) (2026 Oct 10)
-- 🔀 merged PR in `junkpiano/nox`: [feat: a hashtag in a post opens a page of posts with that tag](https://github.com/junkpiano/nox/pull/123) (2026 Oct 10)
+- 🔀 opened PR in `junkpiano/nox`: [feat: a custom emoji someone reacted with can be added to your own](https://github.com/junkpiano/nox/pull/126) (2026 Oct 12)
+- 🔀 merged PR in `junkpiano/nox`: [feat: sign in with a remote signer (NIP-46)](https://github.com/junkpiano/nox/pull/124) (2026 Oct 12)
 - 🔀 merged PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
 - 🔀 opened PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
 - 🔀 closed PR in `junkpiano/nox`: [fix: an event is shown from the cache only once its signature has been checked](https://github.com/junkpiano/nox/pull/115) (2026 Oct 03)
@@ -61,11 +61,11 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
