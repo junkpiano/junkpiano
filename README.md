@@ -19,8 +19,8 @@ Thinking in Rust
 
 ## Recent Activity
 
-- 🔀 opened PR in `junkpiano/nox`: [ci: build the React Native app for iOS and upload it to TestFlight](https://github.com/junkpiano/nox/pull/139) (2026 Oct 14)
-- 🔀 merged PR in `junkpiano/nox`: [feat: the phone reacts with any emoji, and its heart sends your quick reaction](https://github.com/junkpiano/nox/pull/133) (2026 Oct 12)
+- 🔀 opened PR in `junkpiano/nox`: [feat: the phone uses the platform's tab bar and icons](https://github.com/junkpiano/nox/pull/143) (2026 Oct 14)
+- 🔀 merged PR in `junkpiano/nox`: [perf: signatures are checked natively on Android](https://github.com/junkpiano/nox/pull/135) (2026 Oct 14)
 - 🔀 merged PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
 - 🔀 opened PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
 - 🔀 closed PR in `junkpiano/nox`: [fix: an event is shown from the cache only once its signature has been checked](https://github.com/junkpiano/nox/pull/115) (2026 Oct 03)
@@ -61,14 +61,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
