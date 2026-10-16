@@ -13,22 +13,19 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **3 days** Oct 12 ~ Oct 14 | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **5 days** Oct 12 ~ Oct 16 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 opened PR in `junkpiano/nox`: [feat: the phone uses the platform's tab bar and icons](https://github.com/junkpiano/nox/pull/143) (2026 Oct 14)
-- 🔀 merged PR in `junkpiano/nox`: [perf: signatures are checked natively on Android](https://github.com/junkpiano/nox/pull/135) (2026 Oct 14)
+- 🔀 merged PR in `junkpiano/nox`: [refactor: one rule decides which timeline events are shown](https://github.com/junkpiano/nox/pull/160) (2026 Oct 15)
+- 🔀 opened PR in `junkpiano/nox`: [refactor: timelines ask for the same things on the web and the phone](https://github.com/junkpiano/nox/pull/164) (2026 Oct 15)
 - 🔀 merged PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
 - 🔀 opened PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
 - 🔀 closed PR in `junkpiano/nox`: [fix: an event is shown from the cache only once its signature has been checked](https://github.com/junkpiano/nox/pull/115) (2026 Oct 03)
 - 🔀 opened PR in `swiftlang/swift-corelibs-foundation`: [[Windows] Close the handle of a thread started by Thread](https://github.com/swiftlang/swift-corelibs-foundation/pull/5595) (2026 Oct 03)
 - 🍴 Forked `go-shiori/shiori` (2026 Oct 02)
-- 🔀 closed PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
-- 🔀 opened PR in `junkpiano/emacs.d-v2`: [feat: add org-preview-html, fix Bitcoin sign glyph and Org version mismatch](https://github.com/junkpiano/emacs.d-v2/pull/2) (2026 Sep 26)
-- 🔀 merged PR in `junkpiano/dotfiles`: [feat: add a cleanup subcommand that removes this repo's symlinks from…](https://github.com/junkpiano/dotfiles/pull/65) (2026 Sep 26)
 
 ## Top Projects
 
@@ -61,14 +58,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
