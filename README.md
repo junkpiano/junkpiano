@@ -13,18 +13,16 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **5 days** Oct 12 ~ Oct 16 | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **7 days** Oct 12 ~ Oct 18 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nox`: [refactor: one people search for the web and the phone](https://github.com/junkpiano/nox/pull/161) (2026 Oct 15)
-- 🔀 opened PR in `junkpiano/nox`: [refactor: timelines ask for the same things on the web and the phone](https://github.com/junkpiano/nox/pull/164) (2026 Oct 15)
+- 🔀 merged PR in `junkpiano/nox`: [fix(web): a post shows at most two link cards](https://github.com/junkpiano/nox/pull/175) (2026 Oct 18)
+- 🔀 opened PR in `junkpiano/nox`: [fix(web): a post shows at most two link cards](https://github.com/junkpiano/nox/pull/175) (2026 Oct 18)
 - 🔀 merged PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
 - 🔀 opened PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
-- 🔀 closed PR in `junkpiano/nox`: [fix: an event is shown from the cache only once its signature has been checked](https://github.com/junkpiano/nox/pull/115) (2026 Oct 03)
-- 🔀 opened PR in `swiftlang/swift-corelibs-foundation`: [[Windows] Close the handle of a thread started by Thread](https://github.com/swiftlang/swift-corelibs-foundation/pull/5595) (2026 Oct 03)
 
 ## Top Projects
 
@@ -57,14 +55,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
