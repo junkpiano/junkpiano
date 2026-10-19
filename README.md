@@ -19,10 +19,8 @@ Thinking in Rust
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nox`: [fix(web): a post shows at most two link cards](https://github.com/junkpiano/nox/pull/175) (2026 Oct 18)
-- 🔀 opened PR in `junkpiano/nox`: [fix(web): a post shows at most two link cards](https://github.com/junkpiano/nox/pull/175) (2026 Oct 18)
-- 🔀 merged PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
-- 🔀 opened PR in `junkpiano/nostr-rust-news`: [Post new entries from the Rust Blog and Inside Rust](https://github.com/junkpiano/nostr-rust-news/pull/2) (2026 Oct 10)
+- 🔀 merged PR in `junkpiano/nox`: [feat: see who reposted a post](https://github.com/junkpiano/nox/pull/185) (2026 Oct 18)
+- 🔀 opened PR in `junkpiano/nox`: [feat: see who reposted a post](https://github.com/junkpiano/nox/pull/185) (2026 Oct 18)
 
 ## Top Projects
 
@@ -55,14 +53,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
