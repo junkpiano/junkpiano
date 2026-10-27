@@ -13,14 +13,14 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **0 days**  | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **1 days** Oct 27 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 opened PR in `junkpiano/nox`: [chore: add Dependabot](https://github.com/junkpiano/nox/pull/186) (2026 Oct 27)
 - 🔀 merged PR in `junkpiano/nox`: [feat: see who reposted a post](https://github.com/junkpiano/nox/pull/185) (2026 Oct 18)
-- 🔀 opened PR in `junkpiano/nox`: [feat: see who reposted a post](https://github.com/junkpiano/nox/pull/185) (2026 Oct 18)
 
 ## Top Projects
 
@@ -53,14 +53,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
