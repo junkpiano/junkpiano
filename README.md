@@ -19,8 +19,8 @@ Thinking in Rust
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nox`: [feat: a nostr: note or nevent written in a post carries a q tag](https://github.com/junkpiano/nox/pull/187) (2026 Nov 01)
-- 🔀 opened PR in `junkpiano/nox`: [feat: a nostr: note or nevent written in a post carries a q tag](https://github.com/junkpiano/nox/pull/187) (2026 Nov 01)
+- 🔀 merged PR in `junkpiano/nox`: [ci(ios): the log shows the app's entitlements and the IPA is kept when not uploaded](https://github.com/junkpiano/nox/pull/188) (2026 Nov 01)
+- 🔀 opened PR in `junkpiano/nox`: [feat: links to the front page, /global and name@domain open the app](https://github.com/junkpiano/nox/pull/189) (2026 Nov 01)
 
 ## Top Projects
 
@@ -53,11 +53,11 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
