@@ -13,7 +13,7 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **4 days** Nov 03 ~ Nov 06 | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **5 days** Nov 03 ~ Nov 07 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
@@ -53,14 +53,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
