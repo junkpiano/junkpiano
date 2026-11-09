@@ -13,14 +13,15 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **5 days** Nov 03 ~ Nov 07 | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **6 days** Nov 03 ~ Nov 08 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nox`: [fix(web): a post's page shows one list of people at a time](https://github.com/junkpiano/nox/pull/191) (2026 Nov 03)
-- 🔀 opened PR in `junkpiano/nox`: [fix(web): a post's page shows one list of people at a time](https://github.com/junkpiano/nox/pull/191) (2026 Nov 03)
+- 🔀 closed PR in `junkpiano/nox`: [chore(deps): bump the native group in /native with 3 updates](https://github.com/junkpiano/nox/pull/205) (2026 Nov 08)
+- 🔀 merged PR in `junkpiano/nox`: [ci: Dependabot web and Docker updates merge themselves once tests and the Docker build pass](https://github.com/junkpiano/nox/pull/204) (2026 Nov 08)
+- 🔀 opened PR in `junkpiano/nox`: [ci: Dependabot web and Docker updates merge themselves once tests and the Docker build pass](https://github.com/junkpiano/nox/pull/204) (2026 Nov 08)
 
 ## Top Projects
 
@@ -53,14 +54,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
