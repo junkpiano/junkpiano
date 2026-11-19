@@ -13,12 +13,13 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **0 days**  | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **1 days** Nov 19 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🐛 opened issue in `junkpiano/kubar`: [kubectl not found when installed via zerobrew](https://github.com/junkpiano/kubar/issues/1) (2026 Nov 19)
 - 🔀 opened PR in `junkpiano/yusuke.cloud`: [Add photo gallery from content-manager](https://github.com/junkpiano/yusuke.cloud/pull/136) (2026 Nov 15)
 - 🔀 opened PR in `junkpiano/nox`: [fix(ios): zaps on profiles only, iPhone only, for App Review](https://github.com/junkpiano/nox/pull/208) (2026 Nov 15)
 - 🔀 closed PR in `junkpiano/nox`: [chore(deps): bump the native group in /native with 3 updates](https://github.com/junkpiano/nox/pull/205) (2026 Nov 08)
@@ -55,14 +56,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
-C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
