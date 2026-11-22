@@ -13,17 +13,18 @@ Thinking in Rust
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📦 Public Repos |
 |-------------------|-------------------|-----------------|
-| **0 days**  | **14 days** Aug 05 ~ Aug 18 | **92** |
+| **2 days** Nov 21 ~ Nov 22 | **14 days** Aug 05 ~ Aug 18 | **92** |
 
 > *Based on GitHub contribution calendar — last 180 days*
 
 ## Recent Activity
 
+- 🔀 merged PR in `junkpiano/nox`: [chore(native): update shell-quote, react-navigation core and query-string chain](https://github.com/junkpiano/nox/pull/220) (2026 Nov 22)
+- 🔀 opened PR in `junkpiano/nox`: [fix(desktop): give the desktop app the web's Content-Security-Policy](https://github.com/junkpiano/nox/pull/221) (2026 Nov 22)
+- 🐛 closed issue in `junkpiano/kubar`: [kubectl not found when installed via zerobrew](https://github.com/junkpiano/kubar/issues/1) (2026 Nov 21)
 - 🐛 opened issue in `junkpiano/kubar`: [kubectl not found when installed via zerobrew](https://github.com/junkpiano/kubar/issues/1) (2026 Nov 19)
 - 🔀 opened PR in `junkpiano/yusuke.cloud`: [Add photo gallery from content-manager](https://github.com/junkpiano/yusuke.cloud/pull/136) (2026 Nov 15)
-- 🔀 opened PR in `junkpiano/nox`: [fix(ios): zaps on profiles only, iPhone only, for App Review](https://github.com/junkpiano/nox/pull/208) (2026 Nov 15)
 - 🔀 closed PR in `junkpiano/nox`: [chore(deps): bump the native group in /native with 3 updates](https://github.com/junkpiano/nox/pull/205) (2026 Nov 08)
-- 🔀 merged PR in `junkpiano/nox`: [ci: Dependabot web and Docker updates merge themselves once tests and the Docker build pass](https://github.com/junkpiano/nox/pull/204) (2026 Nov 08)
 
 ## Top Projects
 
@@ -56,11 +57,11 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
+JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
 Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
