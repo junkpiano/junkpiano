@@ -19,8 +19,8 @@ Thinking in Rust
 
 ## Recent Activity
 
-- 🔀 merged PR in `junkpiano/nox`: [chore(native): update shell-quote, react-navigation core and query-string chain](https://github.com/junkpiano/nox/pull/220) (2026 Nov 22)
-- 🔀 opened PR in `junkpiano/nox`: [fix(desktop): give the desktop app the web's Content-Security-Policy](https://github.com/junkpiano/nox/pull/221) (2026 Nov 22)
+- 🔀 merged PR in `junkpiano/nox`: [fix(desktop): keep the HTTP plugin off local hosts, redirects included](https://github.com/junkpiano/nox/pull/222) (2026 Nov 22)
+- 🔀 opened PR in `junkpiano/nox`: [fix(desktop): keep the HTTP plugin off local hosts, redirects included](https://github.com/junkpiano/nox/pull/222) (2026 Nov 22)
 - 🐛 closed issue in `junkpiano/kubar`: [kubectl not found when installed via zerobrew](https://github.com/junkpiano/kubar/issues/1) (2026 Nov 21)
 - 🐛 opened issue in `junkpiano/kubar`: [kubectl not found when installed via zerobrew](https://github.com/junkpiano/kubar/issues/1) (2026 Nov 19)
 - 🔀 opened PR in `junkpiano/yusuke.cloud`: [Add photo gallery from content-manager](https://github.com/junkpiano/yusuke.cloud/pull/136) (2026 Nov 15)
@@ -57,14 +57,14 @@ bash and Emacs, kept small: few dependencies, fast to start, easy to rebuild
 ```
 Rust        ████░░░░░░░░░░░░░░░░░░░░   18%
 Swift       ███░░░░░░░░░░░░░░░░░░░░░   16%
-Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
 C++         █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Shell       █░░░░░░░░░░░░░░░░░░░░░░░    7%
-Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 JavaScript  █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Go          █░░░░░░░░░░░░░░░░░░░░░░░    7%
+Ruby        █░░░░░░░░░░░░░░░░░░░░░░░    7%
 Python      █░░░░░░░░░░░░░░░░░░░░░░░    5%
-Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Kotlin      █░░░░░░░░░░░░░░░░░░░░░░░    4%
+Emacs Lisp  █░░░░░░░░░░░░░░░░░░░░░░░    4%
 Others      ████░░░░░░░░░░░░░░░░░░░░   19%
 ```
 
